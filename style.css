@@ -1,0 +1,9 @@
+footer {
+	position: relative;
+ 	text-align: center;
+}
+copyrigth {
+	position: fixed;
+ 	bottom: 0;
+	width: auto;
+}
